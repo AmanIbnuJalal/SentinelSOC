@@ -1,0 +1,34 @@
+[
+  {
+    "value": "185.220.101.1",
+    "source": "Sample Feed",
+    "raw_data": {
+      "confidence": 90,
+      "category": "suspicious"
+    }
+  },
+  {
+    "value": "45.155.205.233",
+    "source": "Sample Feed",
+    "raw_data": {
+      "confidence": 75,
+      "category": "malicious"
+    }
+  },
+  {
+    "value": "malicious-example.com",
+    "source": "Sample Feed",
+    "raw_data": {
+      "confidence": 85,
+      "category": "malicious-domain"
+    }
+  },
+  {
+    "value": "44d88612fea8a8f36de82e1278abb02f",
+    "source": "Sample Feed",
+    "raw_data": {
+      "confidence": 95,
+      "category": "malware-hash"
+    }
+  }
+]

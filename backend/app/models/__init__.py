@@ -1,0 +1,3 @@
+from app.models.indicator import Indicator
+
+__all__ = ["Indicator"]
